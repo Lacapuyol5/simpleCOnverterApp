@@ -16,4 +16,4 @@ let multiples = multiplication(3, 3);
 console.log(multiples);
 
 let divide = division(2, 10);
-console.log(division);
+console.log(divide);

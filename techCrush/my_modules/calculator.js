@@ -23,5 +23,5 @@ module.exports = {
 addition,
 substraction,
   multiplication,
-  division,
+  division
 };
